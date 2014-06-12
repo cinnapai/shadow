@@ -1,9 +1,11 @@
 {
   "name": "shadow",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": false,
   "description": "A dark, flat, monokai-ish theme",
-  "activationEvents": ["shadow:toggle"],
+  "activationEvents": [
+    "shadow:toggle"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/chrisarevir/shadow"
@@ -13,6 +15,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
